@@ -1,5 +1,5 @@
 # PythonNumberGuesser
-just a standard number guesser in Python
+Just a standard number guesser in Python
 
 
 The Python Number Guesser is just that. A number guesser game made in Python. The game allows you to select your range at the start. Many number guessers that have been
